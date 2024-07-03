@@ -1,5 +1,29 @@
 ## Hi there 👋
+I'm Melanie
 
-- 🌱 I’m currently learning software development at Keyin College.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have two cats, I'm a huge reader, I'm a graphic designer and print artist, and I'm hoping to be able to add fullstack dev to my portfolio soon!
+- 🌱 I’m currently learning software development at Keyin College.
+- ⚡ Fun facts: I have two cats, I'm a huge reader, I'm a graphic designer, print artist, and I'm hoping to be able to add fullstack dev soon!
+
+<i>it is always thorsday in my house</i>
+
+<details>
+<summary>languages in my pocket</summary>
+  
+| rank | language |
+|-----:|---------------|
+|     1|  HTML & CSS   |
+|     2|  python       |
+|     3|  javascript   |
+|     4|      SQL      |
+</details>
+
+<details>
+<summary>design skills</summary>
+  
+| rank | skills |
+|-----:|---------------|
+|     1|  logo & branding   |
+|     2|  book & documents      |
+|     3|  web   |
+</details>
