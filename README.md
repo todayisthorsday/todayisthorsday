@@ -27,3 +27,7 @@ I'm Melanie
 |     2|  book & documents      |
 |     3|  web   |
 </details>
+---
+
+> <i>“Never trust anyone who has not brought a book with them.”</i>
+<br>— Lemony Snicket
