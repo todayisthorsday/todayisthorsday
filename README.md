@@ -13,9 +13,9 @@ I'm Melanie
 | rank | language |
 |-----:|---------------|
 |     1|  HTML & CSS   |
-|     2|  python       |
-|     3|  javascript   |
-|     4|      SQL      |
+|     2|  javascript   |
+|     3|  python       |
+|     4|  SQL          |
 </details>
 
 <details>
