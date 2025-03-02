@@ -16,6 +16,7 @@ I'm Melanie
 |     2|  javascript   |
 |     3|  python       |
 |     4|  SQL          |
+|     5|  java         |
 </details>
 
 <details>
