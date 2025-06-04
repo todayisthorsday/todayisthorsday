@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **melanie.adams15@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny, but it might just be to myself**
+- ⚡ Fun fact **I** think I'm funny, but it might just be to myself
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
